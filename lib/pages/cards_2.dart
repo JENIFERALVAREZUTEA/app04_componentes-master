@@ -37,10 +37,10 @@ class Cards_2 extends StatelessWidget {
                 CircleAvatar( 
                   radius: 66.0,backgroundColor:
              Color.fromARGB(255, 237, 229, 229),backgroundImage: 
-            NetworkImage("https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"),
+            NetworkImage("https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"),
             ),
                 Text(
-                  "John Doe",
+                  "John Doe""ceo at apple Inc",
                   textAlign: TextAlign.center,
                   maxLines: 5,
                   overflow: TextOverflow.ellipsis,
